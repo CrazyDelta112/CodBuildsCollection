@@ -212,9 +212,6 @@
 	  position: absolute;
 	  inset: 0;
 	  background:
-		linear-gradient(to bottom, rgba(0,0,0,0.45), rgba(0,0,0,0.9)),
-		radial-gradient(circle at top, rgba(255,255,255,0.05), transparent 60%);
-	  z-index: 0;
 	}
 
 	.game-section > * {
@@ -538,4 +535,8 @@
       }
     }
 @font-face {
+    font-family: "MW";
+    src: url("../Fonts/modernwarfare.ttf") format("truetype");
+    font-weight: normal;
 }
+
