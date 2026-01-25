@@ -539,4 +539,15 @@
     src: url("../Fonts/modernwarfare.ttf") format("truetype");
     font-weight: normal;
 }
+@font-face {
+    font-family: "HTR";
+    src: url("/fonts/HitmarkerText-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+@font-face {
+    font-family: "BO";
+    src: url("/fonts/blops.ttf") format("truetype");
+    font-weight: normal;
+}
+
 
